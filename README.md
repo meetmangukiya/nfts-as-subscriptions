@@ -6,9 +6,13 @@ NFTs have been used for raising funds by many orgnizations / individuals for alt
 reasons. The NFT minting fees are the main source of initial revenue with some royalties on all
 subsequent sales on secondary market places which is usually only a minor part of the total revenue.
 
+## Problem
+
 For sustaining and continuously raising new funds one can opt / try to implement a subscription service
 that will require the minters to regularly pay for the NFTs to keep owning them which can be used for
-token-gating anything, etc.
+token-gating anything, etc. The problem is keeping the inactive subscriptions synchronized and burning
+them at time for regular payments and restricting access to the token-gated content by ensuring the tokens
+that exist are always the ones with an active subscription.
 
 ## Solution
 
